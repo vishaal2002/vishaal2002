@@ -5,8 +5,7 @@
 
 <br/>
 
-<sub>Building the parts of mobile apps most users never see —<br/>
-but every production release depends on.</sub>
+<sub>Building the parts of mobile apps most users never see but every production release depends on.</sub>
 
 <a href="https://linkedin.com/in/vishaal-karthik-bvk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@vishaalkarthik104"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
@@ -20,7 +19,7 @@ but every production release depends on.</sub>
 <div align="center">
 
 | 🧩 3.5+ yrs production RN | 📦 11K+ npm downloads | ☁️ AWS · Azure · Oracle certified |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:
 
 </div>
 
@@ -33,14 +32,12 @@ stack:     React Native · TypeScript · iOS · Android · Node.js
 focus:     Mobile architecture
 certified: AWS Cloud Practitioner · Azure Fundamentals · Oracle Multicloud Architect
 ```
-
-<br/>
+<br />
 
 ## What I work on
 
 I'm a React Native engineer with 3.5+ years shipping production iOS and Android apps, focused on **mobile architecture, code quality, and security**. I care about the parts of a codebase that don't demo well — component systems that scale past three developers, CI/CD that doesn't need a maintainer on standby, and security postures that hold up against real third-party audits.
 
-<br/>
 
 ## Impact, in numbers
 
@@ -55,8 +52,6 @@ I'm a React Native engineer with 3.5+ years shipping production iOS and Android 
 | Open-source reach | `11,000+` combined npm downloads across 2 packages |
 
 </div>
-
-<br/>
 
 ## Selected work at Workhall
 
@@ -105,7 +100,6 @@ Custom URI scheme plus web choice-page architecture, deployed across multiple pr
 </tr>
 </table>
 
-<br/>
 
 ## Certifications
 
@@ -115,7 +109,6 @@ Custom URI scheme plus web choice-page architecture, deployed across multiple pr
 <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
-<br/>
 
 ## Open source
 
@@ -130,7 +123,6 @@ Custom URI scheme plus web choice-page architecture, deployed across multiple pr
 
 **react-native-geocodex** — Forward and reverse geocoding for React Native using OpenStreetMap. No API key, TypeScript-first, RN-native. `600+ downloads` · `MIT`
 
-<br/>
 
 ## Toolbelt
 
@@ -150,7 +142,6 @@ Custom URI scheme plus web choice-page architecture, deployed across multiple pr
 <img src="https://img.shields.io/badge/-Azure-0B1F3A?style=flat&logo=microsoftazure&logoColor=0078D4" />
 </p>
 
-<br/>
 
 ## By the numbers
 
@@ -162,8 +153,6 @@ Custom URI scheme plus web choice-page architecture, deployed across multiple pr
 </a>
 
 <br clear="both" />
-
-<br/>
 
 **Recent activity**
 
