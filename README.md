@@ -8,13 +8,9 @@
 <sub>Building the parts of mobile apps most users never see —<br/>
 but every production release depends on.</sub>
 
-<br/><br/>
-
-<a href="https://linkedin.com/in/vishaal-karthik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@vishaal2002"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://linkedin.com/in/vishaal-karthik-bvk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@vishaalkarthik104"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
 <a href="mailto:vishaalkarthikb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-6366F1?style=flat-square&logo=readdotcv&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=vishaal2002&color=6366F1&style=flat-square&label=Profile+Views" />
 
 </div>
 
