@@ -157,11 +157,11 @@ Custom URI scheme plus web choice-page architecture, deployed across multiple pr
 **Recent activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1949](https://github.com/Ndifreke000/stellar-insights/pull/1949) in [Ndifreke000/stellar-insights](https://github.com/Ndifreke000/stellar-insights)
-2. 🎉 Merged PR [#3](https://github.com/Ishwarya-4/Hearth/pull/3) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
-3. 💪 Opened PR [#3](https://github.com/Ishwarya-4/Hearth/pull/3) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
-4. 🎉 Merged PR [#2](https://github.com/Ishwarya-4/Hearth/pull/2) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
-5. 💪 Opened PR [#2](https://github.com/Ishwarya-4/Hearth/pull/2) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
+1. 💪 Opened PR [#4](https://github.com/Ishwarya-4/Hearth/pull/4) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
+2. 💪 Opened PR [#1949](https://github.com/Ndifreke000/stellar-insights/pull/1949) in [Ndifreke000/stellar-insights](https://github.com/Ndifreke000/stellar-insights)
+3. 🎉 Merged PR [#3](https://github.com/Ishwarya-4/Hearth/pull/3) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
+4. 💪 Opened PR [#3](https://github.com/Ishwarya-4/Hearth/pull/3) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
+5. 🎉 Merged PR [#2](https://github.com/Ishwarya-4/Hearth/pull/2) in [Ishwarya-4/Hearth](https://github.com/Ishwarya-4/Hearth)
 <!--END_SECTION:activity-->
 
 <br/>
