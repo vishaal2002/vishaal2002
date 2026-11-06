@@ -85,6 +85,6 @@
     </g>
   </g>
 
-  <text x="72" y="520" class="mono" font-size="13" fill="#71717A">Coimbatore, India</text>
+  <text x="72" y="520" class="mono" font-size="13" fill="#A1A1AA">vishaalkarthik.com <tspan fill="#71717A">· Coimbatore, India</tspan></text>
   <text x="1208" y="520" class="mono" font-size="13" fill="#71717A" text-anchor="end">React Native · TypeScript · iOS · Android</text>
 </svg>
