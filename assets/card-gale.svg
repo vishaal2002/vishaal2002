@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="t">
+  <title id="t">Gale: a day-ahead wind desk for GB power auctions. The January 2026 forecast ran about 1.8 GW high, yet removed 46% of the error of repeating yesterday's wind. Live app.</title>
+  <defs>
+    <clipPath id="clip"><rect x="8" y="8" width="624" height="284" rx="24"/></clipPath>
+    <radialGradient id="glow" cx="0.95" cy="0" r="0.8">
+      <stop offset="0" stop-color="#D97706" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#D97706" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBBF24" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="640" height="300" fill="#0F0F16"/>
+    <rect width="640" height="300" fill="url(#glow)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="623" height="283" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text x="36" y="52" class="mono" font-size="12" letter-spacing="1.5" fill="#FBBF24">DATA · ENERGY MARKETS · LIVE</text>
+  <text x="604" y="54" class="sans" font-size="20" fill="#71717A" text-anchor="end">↗</text>
+  <text x="36" y="92" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#FFFFFF">Gale</text>
+  <text x="36" y="120" class="sans" font-size="15" fill="#A1A1AA">Day-ahead wind desk for GB power auctions</text>
+
+  <!-- abstract forecast vs actual -->
+  <path d="M36 196C80 170 120 160 170 176S260 214 310 186 400 142 450 160 540 196 604 170V230H36Z" fill="url(#area)"/>
+  <path d="M36 196C80 170 120 160 170 176S260 214 310 186 400 142 450 160 540 196 604 170" fill="none" stroke="#FBBF24" stroke-width="2.5"/>
+  <path d="M36 214C80 196 120 188 170 200S260 232 310 208 400 172 450 186 540 214 604 196" fill="none" stroke="#22D3EE" stroke-width="2"/>
+  <g class="sans" font-size="12">
+    <rect x="424" y="86" width="10" height="3" rx="1.5" fill="#FBBF24"/><text x="440" y="91" fill="#A1A1AA">forecast at gate close</text>
+  </g>
+  <g class="sans" font-size="12">
+    <rect x="424" y="104" width="10" height="3" rx="1.5" fill="#22D3EE"/><text x="440" y="109" fill="#A1A1AA">wind generated</text>
+  </g>
+
+  <text x="36" y="266" class="sans" font-size="15" fill="#E4E4E7">Ran <tspan font-weight="700" fill="#FDE68A">~1.8 GW high</tspan>, yet <tspan font-weight="700" fill="#A5F3FC">46% less error</tspan> than repeating yesterday's wind</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="96" viewBox="0 0 1280 96" role="img" aria-labelledby="t">
+  <title id="t">Stack: React Native, TypeScript, Expo, Reanimated, Gesture Handler, FlashList, Swift, Kotlin, Node.js, React 19, Next.js, Django, FastAPI, Three.js, GLSL, Firebase, GitHub Actions, Docker, AWS, Azure.</title>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.08" stop-color="#FFFFFF"/>
+      <stop offset="0.92" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="1280" height="96" fill="url(#fade)"/></mask>
+    <g id="row" class="sans" font-size="15" fill="#E4E4E7">
+      <g transform="translate(0 0)"><rect width="144" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#61DAFB"/><text x="36" y="25.5">React Native</text></g>
+      <g transform="translate(156 0)"><rect width="128" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#3178C6"/><text x="36" y="25.5">TypeScript</text></g>
+      <g transform="translate(296 0)"><rect width="79" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#FFFFFF"/><text x="36" y="25.5">Expo</text></g>
+      <g transform="translate(387 0)"><rect width="128" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#A78BFA"/><text x="36" y="25.5">Reanimated</text></g>
+      <g transform="translate(527 0)"><rect width="169" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#F472B6"/><text x="36" y="25.5">Gesture Handler</text></g>
+      <g transform="translate(708 0)"><rect width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#34D399"/><text x="36" y="25.5">FlashList</text></g>
+      <g transform="translate(840 0)"><rect width="87" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#F05138"/><text x="36" y="25.5">Swift</text></g>
+      <g transform="translate(939 0)"><rect width="95" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#7F52FF"/><text x="36" y="25.5">Kotlin</text></g>
+      <g transform="translate(1046 0)"><rect width="103" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#5FA04E"/><text x="36" y="25.5">Node.js</text></g>
+      <g transform="translate(1161 0)"><rect width="112" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#61DAFB"/><text x="36" y="25.5">React 19</text></g>
+      <g transform="translate(1285 0)"><rect width="103" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#D4D4D8"/><text x="36" y="25.5">Next.js</text></g>
+      <g transform="translate(1400 0)"><rect width="95" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#44B78B"/><text x="36" y="25.5">Django</text></g>
+      <g transform="translate(1507 0)"><rect width="103" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#05998B"/><text x="36" y="25.5">FastAPI</text></g>
+      <g transform="translate(1622 0)"><rect width="112" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#FFFFFF"/><text x="36" y="25.5">Three.js</text></g>
+      <g transform="translate(1746 0)"><rect width="79" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#5586A4"/><text x="36" y="25.5">GLSL</text></g>
+      <g transform="translate(1837 0)"><rect width="112" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#FFCA28"/><text x="36" y="25.5">Firebase</text></g>
+      <g transform="translate(1961 0)"><rect width="161" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#2088FF"/><text x="36" y="25.5">GitHub Actions</text></g>
+      <g transform="translate(2134 0)"><rect width="95" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#2496ED"/><text x="36" y="25.5">Docker</text></g>
+      <g transform="translate(2241 0)"><rect width="71" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#FF9900"/><text x="36" y="25.5">AWS</text></g>
+      <g transform="translate(2324 0)"><rect width="87" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/><circle cx="22" cy="20" r="5" fill="#0078D4"/><text x="36" y="25.5">Azure</text></g>
+    </g>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .track{animation:slide 48s linear infinite}
+    @keyframes slide{to{transform:translateX(-2423px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x="8" y="8" width="1264" height="80" rx="24" fill="#0F0F16"/>
+  <rect x="8.5" y="8.5" width="1263" height="79" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <g mask="url(#m)">
+    <g class="track" transform-origin="0 0">
+      <use href="#row" x="0" y="28"/>
+      <use href="#row" x="2423" y="28"/>
+    </g>
+  </g>
+</svg>

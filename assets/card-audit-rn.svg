@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="427" height="380" viewBox="0 0 427 380" role="img" aria-labelledby="t">
+  <title id="t">audit-rn: AST-based OWASP Mobile Top 10 security audit for React Native repos, with SARIF output for CI.</title>
+  <defs>
+    <clipPath id="clip"><rect x="8" y="8" width="411" height="364" rx="24"/></clipPath>
+    <clipPath id="box"><rect x="36" y="146" width="355" height="152" rx="12"/></clipPath>
+    <radialGradient id="glow" cx="0.95" cy="0" r="0.8">
+      <stop offset="0" stop-color="#EA580C" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#EA580C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FB923C" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FB923C" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+    .scan{animation:scan 3.6s cubic-bezier(.5,0,.5,1) infinite}
+    @keyframes scan{0%{transform:translateY(-40px)}100%{transform:translateY(160px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="427" height="380" fill="#0F0F16"/>
+    <rect width="427" height="380" fill="url(#glow)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="410" height="363" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text x="36" y="52" class="mono" font-size="12" letter-spacing="1.5" fill="#FB923C">SECURITY TOOLING</text>
+  <text x="391" y="54" class="sans" font-size="20" fill="#71717A" text-anchor="end">↗</text>
+  <text x="36" y="92" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#FFFFFF">audit-rn</text>
+  <text x="36" y="120" class="sans" font-size="15" fill="#A1A1AA">AST-based OWASP Mobile Top 10 audit</text>
+
+  <rect x="36" y="146" width="355" height="152" rx="12" fill="#0A0A10" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <g clip-path="url(#box)">
+    <rect class="scan" x="36" y="146" width="355" height="40" fill="url(#scan)"/>
+  </g>
+  <g class="mono" font-size="13">
+    <circle cx="56" cy="174" r="4" fill="#F87171"/>
+    <text x="70" y="178.5" fill="#E4E4E7">hardcoded-secrets</text>
+    <text x="374" y="178.5" fill="#71717A" text-anchor="end">M1</text>
+    <circle cx="56" cy="206" r="4" fill="#FB923C"/>
+    <text x="70" y="210.5" fill="#E4E4E7">insecure-webview</text>
+    <text x="374" y="210.5" fill="#71717A" text-anchor="end">M8</text>
+    <circle cx="56" cy="238" r="4" fill="#FBBF24"/>
+    <text x="70" y="242.5" fill="#E4E4E7">insecure-http</text>
+    <text x="374" y="242.5" fill="#71717A" text-anchor="end">M5</text>
+    <circle cx="56" cy="270" r="4" fill="#60A5FA"/>
+    <text x="70" y="274.5" fill="#E4E4E7">sensitive-logging</text>
+    <text x="374" y="274.5" fill="#71717A" text-anchor="end">M6</text>
+  </g>
+
+  <g class="sans" font-size="14" fill="#E4E4E7" text-anchor="middle">
+    <rect x="36" y="320" width="108" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="90" y="342">Babel AST</text>
+    <rect x="154" y="320" width="80" height="34" rx="17" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.45"/>
+    <text x="194" y="342" fill="#FFEDD5">SARIF</text>
+    <rect x="244" y="320" width="92" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="290" y="342">CI gate</text>
+  </g>
+</svg>

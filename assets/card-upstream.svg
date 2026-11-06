@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="t">
+  <title id="t">21 merged pull requests in other open-source projects, including OpenTelemetry eBPF profiler, rocketmq-rust, the React Native Directory, pyvm-updater, monetra and am-neuralnetwork.</title>
+  <defs>
+    <clipPath id="clip"><rect x="8" y="8" width="624" height="284" rx="24"/></clipPath>
+    <radialGradient id="glow" cx="0.95" cy="0" r="0.8">
+      <stop offset="0" stop-color="#DB2777" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#DB2777" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="640" height="300" fill="#0F0F16"/>
+    <rect width="640" height="300" fill="url(#glow)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="623" height="283" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text x="36" y="52" class="mono" font-size="12" letter-spacing="1.5" fill="#F472B6">UPSTREAM CONTRIBUTIONS</text>
+  <text x="604" y="54" class="sans" font-size="20" fill="#71717A" text-anchor="end">↗</text>
+  <text x="36" y="96" class="sans" font-size="40" font-weight="800" letter-spacing="-1" fill="#FFFFFF">21 <tspan font-size="28" font-weight="700">merged PRs</tspan></text>
+  <text x="36" y="124" class="sans" font-size="15" fill="#A1A1AA">in Go, Rust, Python and TypeScript projects</text>
+
+  <g class="mono" font-size="13" fill="#E4E4E7" text-anchor="middle">
+    <g><rect x="36" y="150" width="246" height="32" rx="16" fill="#F472B6" fill-opacity="0.12" stroke="#F472B6" stroke-opacity="0.45"/><text x="159" y="170.5" fill="#FCE7F3">open-telemetry/ebpf-profiler</text></g>
+    <g><rect x="292" y="150" width="136" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="360" y="170.5">rocketmq-rust</text></g>
+    <g><rect x="438" y="150" width="88" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="482" y="170.5">monetra</text></g>
+    <g><rect x="36" y="192" width="290" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="181" y="212.5">react-native-community/directory</text></g>
+    <g><rect x="336" y="192" width="128" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="400" y="212.5">pyvm-updater</text></g>
+    <g><rect x="474" y="192" width="80" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="514" y="212.5">gitree</text></g>
+    <g><rect x="36" y="234" width="160" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="116" y="254.5">am-neuralnetwork</text></g>
+    <g><rect x="206" y="234" width="160" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="286" y="254.5">Solutionlauncher</text></g>
+    <g><rect x="376" y="234" width="80" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="416" y="254.5">Hearth</text></g>
+  </g>
+</svg>

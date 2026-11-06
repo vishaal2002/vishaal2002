@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="440" viewBox="0 0 520 440" role="img" aria-labelledby="t">
+  <title id="t">rn-rich-text-editor: WebView-powered rich text editing for React Native. 12.4K npm downloads, 13 stars, 75 releases.</title>
+  <defs>
+    <clipPath id="clip"><rect x="8" y="8" width="504" height="424" rx="24"/></clipPath>
+    <radialGradient id="glow" cx="0.95" cy="0.0" r="0.75">
+      <stop offset="0" stop-color="#0891B2" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+    .caret{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .tap{animation:tap 3.3s ease-in-out infinite}
+    @keyframes tap{0%,30%,100%{fill-opacity:.2}40%,80%{fill-opacity:.55}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="520" height="440" fill="#0F0F16"/>
+    <rect width="520" height="440" fill="url(#glow)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="503" height="423" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text x="40" y="56" class="mono" font-size="13" letter-spacing="1.5" fill="#22D3EE">MOST USED</text>
+  <text x="472" y="58" class="sans" font-size="22" fill="#71717A" text-anchor="end">↗</text>
+  <text x="40" y="98" class="sans" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#FFFFFF">rn-rich-text-editor</text>
+  <text x="40" y="128" class="sans" font-size="16" fill="#A1A1AA">Rich text editing for React Native</text>
+
+  <!-- editor window -->
+  <rect x="40" y="150" width="440" height="196" rx="14" fill="#0A0A10" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <g class="sans" font-size="14" fill="#D4D4D8" text-anchor="middle">
+    <rect class="tap" x="54" y="162" width="32" height="28" rx="7" fill="#22D3EE" fill-opacity="0.2"/>
+    <text x="70" y="181" font-weight="800" fill="#FFFFFF">B</text>
+    <text x="108" y="181" font-style="italic" font-family="Georgia,serif" font-size="15">I</text>
+    <text x="146" y="181" text-decoration="underline">U</text>
+    <text x="184" y="181" text-decoration="line-through">S</text>
+    <text x="224" y="181" font-weight="700" font-size="13">H1</text>
+    <text x="262" y="181" font-size="16">≡</text>
+    <rect x="293" y="169" width="14" height="14" rx="3" fill="none" stroke="#D4D4D8" stroke-width="1.4"/>
+    <path d="M296 176l3 3 5-6" fill="none" stroke="#D4D4D8" stroke-width="1.4"/>
+    <rect x="331" y="168" width="18" height="15" rx="3" fill="none" stroke="#D4D4D8" stroke-width="1.4"/>
+    <path d="M333 181l5-5 4 3 3-3 4 4" fill="none" stroke="#D4D4D8" stroke-width="1.2"/>
+  </g>
+  <path d="M40 202H480" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <text x="60" y="238" class="sans" font-size="21" font-weight="700" fill="#FFFFFF">Release notes<tspan class="caret" fill="#22D3EE" font-weight="400">|</tspan></text>
+  <text x="60" y="270" class="sans" font-size="15" fill="#A1A1AA">Paste from the web and keep <tspan fill="#FFFFFF" font-weight="700">headings</tspan>, <tspan font-style="italic" fill="#E4E4E7">styles</tspan> and <tspan fill="#22D3EE">links</tspan>.</text>
+  <rect x="60" y="288" width="14" height="14" rx="3.5" fill="#22D3EE"/>
+  <path d="M63.5 295l3 3 4.5-6" fill="none" stroke="#0A0A10" stroke-width="1.8"/>
+  <text x="84" y="300" class="sans" font-size="15" fill="#D4D4D8">Checklists, images and video</text>
+  <rect x="60.7" y="314.7" width="12.6" height="12.6" rx="3" fill="none" stroke="#71717A" stroke-width="1.4"/>
+  <text x="84" y="326" class="sans" font-size="15" fill="#D4D4D8">Read-only rendering</text>
+
+  <g class="sans" font-size="14" fill="#E4E4E7" text-anchor="middle">
+    <rect x="40" y="368" width="70" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="75" y="390">★ 13</text>
+    <rect x="120" y="368" width="164" height="34" rx="17" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.45"/>
+    <text x="202" y="390" fill="#CFFAFE">12.4K downloads</text>
+    <rect x="294" y="368" width="124" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="356" y="390">75 releases</text>
+  </g>
+</svg>

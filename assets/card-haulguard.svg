@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="427" height="380" viewBox="0 0 427 380" role="img" aria-labelledby="t">
+  <title id="t">HaulGuard: weather-aware truck route safety planner built with React 19 and Django REST Framework. Live app.</title>
+  <defs>
+    <clipPath id="clip"><rect x="8" y="8" width="411" height="364" rx="24"/></clipPath>
+    <radialGradient id="glow" cx="0.95" cy="0" r="0.8">
+      <stop offset="0" stop-color="#059669" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="risk" x1="64" y1="0" x2="364" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34D399"/>
+      <stop offset="0.5" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+    .flow{stroke-dasharray:6 14;animation:flow 1.4s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-20}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s ease-out infinite}
+    @keyframes ping{0%{transform:scale(.6);opacity:.8}100%{transform:scale(2.4);opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="427" height="380" fill="#0F0F16"/>
+    <rect width="427" height="380" fill="url(#glow)"/>
+  </g>
+  <rect x="8.5" y="8.5" width="410" height="363" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text x="36" y="52" class="mono" font-size="12" letter-spacing="1.5" fill="#34D399">FULL STACK · LIVE</text>
+  <text x="391" y="54" class="sans" font-size="20" fill="#71717A" text-anchor="end">↗</text>
+  <text x="36" y="92" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#FFFFFF">HaulGuard</text>
+  <text x="36" y="120" class="sans" font-size="15" fill="#A1A1AA">Weather-aware truck route safety</text>
+
+  <rect x="36" y="146" width="355" height="152" rx="12" fill="url(#dots)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <!-- alternative routes -->
+  <path d="M64 270C120 160 250 130 364 168" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="3" stroke-linecap="round"/>
+  <path d="M64 270C180 300 300 262 364 168" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="3" stroke-linecap="round"/>
+  <!-- recommended route, coloured by risk -->
+  <path d="M64 270C150 230 260 210 364 168" fill="none" stroke="url(#risk)" stroke-width="5" stroke-linecap="round"/>
+  <path class="flow" d="M64 270C150 230 260 210 364 168" fill="none" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="2" stroke-linecap="round"/>
+  <g stroke="#0F0F16" stroke-width="2.5">
+    <circle cx="132.6" cy="243" r="5.5" fill="#34D399"/>
+    <circle cx="207.3" cy="219.8" r="5.5" fill="#FBBF24"/>
+    <circle cx="285.4" cy="196" r="5.5" fill="#34D399"/>
+  </g>
+  <circle class="ping" cx="207.3" cy="219.8" r="6" fill="none" stroke="#FBBF24" stroke-width="2"/>
+  <g class="sans" font-size="12" font-weight="700" text-anchor="middle">
+    <circle cx="64" cy="270" r="11" fill="#FFFFFF"/><text x="64" y="274.5" fill="#0F0F16">A</text>
+    <circle cx="364" cy="168" r="11" fill="#FFFFFF"/><text x="364" y="172.5" fill="#0F0F16">B</text>
+  </g>
+
+  <g class="sans" font-size="14" fill="#E4E4E7" text-anchor="middle">
+    <rect x="36" y="320" width="92" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="82" y="342">React 19</text>
+    <rect x="138" y="320" width="84" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="180" y="342">Django</text>
+    <rect x="232" y="320" width="130" height="34" rx="17" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.45"/>
+    <text x="297" y="342" fill="#D1FAE5">48 h heatmap</text>
+  </g>
+</svg>
